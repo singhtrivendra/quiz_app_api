@@ -108,7 +108,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                 width: 120,
                                 decoration: BoxDecoration(color: const Color.fromARGB(255, 240, 158, 35),borderRadius: BorderRadius.circular(30)),
                                 child: Center(child: Text(
-                                  "music", 
+                                  "easy", 
                                   style: TextStyle(
                                   color: Colors.white,
                                   fontSize: 20,
